@@ -1,5 +1,10 @@
 ## 簡易ドキュメント
 
+### ダウンロードURL
+```java
+https://itijuku.github.io/blue-force_by_java
+```
+
 ### インポート
 ```java:main.java
 import blueforce.Attack;
