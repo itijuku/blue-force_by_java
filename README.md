@@ -2,7 +2,7 @@
 
 ### ダウンロードURL
 ```
-[https://itijuku.github.io/blue-force_by_java](https://itijuku.github.io/blue-force_by_java/public/blueforce.zip)
+https://itijuku.github.io/blue-force_by_java/public/blueforce.zip
 ```
 
 ### インポート
